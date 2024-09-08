@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "test1"
+echo "Conflict Resolved!"
 # Take user input
 echo "Enter two numbers: "
 read a
