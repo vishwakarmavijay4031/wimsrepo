@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "This is Simple Calculator"
 # Take user input
 echo "Enter two numbers: "
 read a
